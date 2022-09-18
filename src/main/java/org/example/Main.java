@@ -18,8 +18,8 @@ import java.util.StringTokenizer;
  * Once you finish setup of your Perfect Money account and enable API, you need to whitelist IP address from which you are making calls. <br></br>
  * <p>
  * <p>
- * <b>AccountID</b> at line 43 needs to be populated with your AccountID, which you are using to Sign in. <br></br>
- * <b>Passphrase</b> at line 45 needs to be populated with your password, which you are using to Sign in. <br></br>
+ * <b>AccountID</b> at line 57 needs to be populated with your AccountID, which you are using to Sign in. <br></br>
+ * <b>Passphrase</b> at line 58 needs to be populated with your password, which you are using to Sign in. <br></br>
  * Account can range from U-USD, E-EUR, G-GOLD, B-BTC. <br></br>
  * No matter account type you only use first leter followed by numbers.
  * <p>
